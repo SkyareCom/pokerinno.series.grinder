@@ -1,0 +1,307 @@
+{
+  "languages": [
+    "pt-BR",
+    "en-US",
+    "es-ES"
+  ],
+  "keys": 10,
+  "errors": [],
+  "untranslatedCandidates": [
+    {
+      "file": "dist/app.js",
+      "line": 4,
+      "text": "String(s).replace(/[&"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 4,
+      "text": "({'&':'&amp;','"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 8,
+      "text": "`).join('')}"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 8,
+      "text": "Modo"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 11,
+      "text": "Domine."
+    },
+    {
+      "file": "dist/app.js",
+      "line": 11,
+      "text": "','Transforme estudo em prática. Uma decisão de cada vez.')+`"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 11,
+      "text": "POKERINNO · LABORATÓRIO DE TREINO"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 11,
+      "text": "A próxima decisão"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 11,
+      "text": "começa com"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 11,
+      "text": "você."
+    },
+    {
+      "file": "dist/app.js",
+      "line": 11,
+      "text": "Escolha o contexto. Prepare sua sessão. Encontre seu ritmo de evolução."
+    },
+    {
+      "file": "dist/app.js",
+      "line": 11,
+      "text": "Configure sua jornada →"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 11,
+      "text": "Escolha seu treino"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 11,
+      "text": "SEU RITMO. SUA EVOLUÇÃO."
+    },
+    {
+      "file": "dist/app.js",
+      "line": 11,
+      "text": "`).join('')}"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 11,
+      "text": "Uma boa rotina começa com um treino que faz sentido para você."
+    },
+    {
+      "file": "dist/app.js",
+      "line": 11,
+      "text": "— POKERINNO"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 12,
+      "text": "`).join('')}"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 12,
+      "text": "{const [val,text]=Array.isArray(v)?v:[v,v];return `"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 12,
+      "text": "`}).join('')}"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 12,
+      "text": "`).join('')}"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 12,
+      "text": "Ver treino programado →"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 13,
+      "text": "TREINO PROGRAMADO"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 13,
+      "text": "EDITAR"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 13,
+      "text": "CANCELAR"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 13,
+      "text": "Sua sessão será alimentada pelo motor de spots do app."
+    },
+    {
+      "file": "dist/app.js",
+      "line": 14,
+      "text": "Seu próximo passo."
+    },
+    {
+      "file": "dist/app.js",
+      "line": 14,
+      "text": "Os planos e recursos disponíveis aparecerão aqui quando o serviço da loja estiver conectado."
+    },
+    {
+      "file": "dist/app.js",
+      "line": 14,
+      "text": "Conhecer os recursos →"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 15,
+      "text": "Seu jogo tem uma história."
+    },
+    {
+      "file": "dist/app.js",
+      "line": 15,
+      "text": "Comece seu próximo capítulo."
+    },
+    {
+      "file": "dist/app.js",
+      "line": 15,
+      "text": "Acessar conta →"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 15,
+      "text": "Formato de jogo"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 15,
+      "text": "Ajustar →"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 15,
+      "text": "Histórico de treino"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 15,
+      "text": "Suas sessões reais aparecerão aqui."
+    },
+    {
+      "file": "dist/app.js",
+      "line": 15,
+      "text": "Consultar →"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 15,
+      "text": "Reduzir movimentos"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 15,
+      "text": "Uma experiência com menos animações."
+    },
+    {
+      "file": "dist/app.js",
+      "line": 17,
+      "text": "EDITAR TREINO"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 17,
+      "text": "').join('')}"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 17,
+      "text": "NENHUMA MÃO CARREGADA"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 17,
+      "text": "{const a=(i/Number(config.players))*Math.PI*2+Math.PI/2;return `"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 17,
+      "text": "`}).join('')}"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 17,
+      "text": "ANTERIOR"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 17,
+      "text": "PRÓXIMO"
+    },
+    {
+      "file": "dist/app.js",
+      "line": 17,
+      "text": "Voltar ao treino programado →"
+    },
+    {
+      "file": "dist/index.html",
+      "line": 1,
+      "text": "StackUp Grinder EVO · Decida. Evolua. Domine."
+    },
+    {
+      "file": "dist/index.html",
+      "line": 1,
+      "text": "LABORATÓRIO DE DECISÕES"
+    },
+    {
+      "file": "dist/index.html",
+      "line": 1,
+      "text": "POKERINNO · SEU ANFITRIÃO"
+    },
+    {
+      "file": "dist/index.html",
+      "line": 1,
+      "text": "Uma decisão."
+    },
+    {
+      "file": "dist/index.html",
+      "line": 1,
+      "text": "Um novo passo."
+    },
+    {
+      "file": "dist/index.html",
+      "line": 1,
+      "text": "Prepare seu treino →"
+    },
+    {
+      "file": "dist/index.html",
+      "line": 1,
+      "text": "STACKUP HOLD’EM · TEXAS HOLD’EM"
+    },
+    {
+      "file": "dist/index.html",
+      "line": 1,
+      "text": "DECIDA. EVOLUA. DOMINE."
+    },
+    {
+      "file": "dist/index.html",
+      "line": 1,
+      "text": "Continuar →"
+    },
+    {
+      "file": "dist/login.js",
+      "line": 3,
+      "text": "`).join('')}"
+    },
+    {
+      "file": "dist/swipe.js",
+      "line": 2,
+      "text": "{if(!start||e.pointerId!==start.id)return;const x=e.clientX-start.x,y=e.clientY-start.y;start=null;if(!enabled()||Math.abs(x)"
+    },
+    {
+      "file": "dist/swipe.js",
+      "line": 2,
+      "text": "=0&&next"
+    }
+  ],
+  "note": "Candidatos exigem revisão humana; a varredura não comprova cobertura de todo texto dinâmico ou atributos."
+}

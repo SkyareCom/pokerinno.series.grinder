@@ -1,0 +1,12 @@
+{
+  "nav.home": "Inicio",
+  "nav.profile": "Perfil",
+  "auth.google": "Entrar con Google",
+  "auth.biometric": "Entrar con Biometría",
+  "auth.stackup": "Entrar con StackUp ID",
+  "auth.create": "Crear cuenta StackUp",
+  "common.back": "Volver",
+  "common.continue": "Continuar",
+  "common.cancel": "Cancelar",
+  "common.loading": "Cargando…"
+}

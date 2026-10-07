@@ -1,0 +1,12 @@
+{
+  "nav.home": "Home",
+  "nav.profile": "Profile",
+  "auth.google": "Sign in with Google",
+  "auth.biometric": "Sign in with Biometrics",
+  "auth.stackup": "Sign in with StackUp ID",
+  "auth.create": "Create StackUp account",
+  "common.back": "Back",
+  "common.continue": "Continue",
+  "common.cancel": "Cancel",
+  "common.loading": "Loading…"
+}

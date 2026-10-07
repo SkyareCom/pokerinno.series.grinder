@@ -1,1 +1,10 @@
-{"name":"stackup-grinder-evo-front","private":true,"type":"module","scripts":{"test":"node --test tests/*.mjs"}}
+{
+  "name": "stackup-grinder-evo-front",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.mjs",
+    "i18n:audit": "node scripts/audit-i18n.mjs",
+    "i18n:audit:strict": "node scripts/audit-i18n.mjs --strict"
+  }
+}
