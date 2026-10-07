@@ -1,0 +1,5 @@
+export const defaults={format:'tournament',players:'6',stack:'40',position:'BTN',street:'preflop',duration:'10',level:'base'};
+export function readConfig(storage){try{return normalize(JSON.parse(storage.getItem('grinder.config')||'{}'))}catch{return {...defaults}}}
+export function normalize(value){const allowed={format:['cash','tournament'],players:['2','6','8','9','10'],stack:['20','40','60','100'],position:['BTN','CO','HJ','UTG','SB','BB'],street:['preflop','flop','turn','river'],duration:['5','10','20'],level:['base','evo','advance']};return Object.fromEntries(Object.entries(defaults).map(([k,v])=>[k,allowed[k].includes(value?.[k])?value[k]:v]))}
+export function saveConfig(storage,value){try{storage.setItem('grinder.config',JSON.stringify(normalize(value)));return true}catch{return false}}
+export async function loadSpots(adapter,config){if(typeof adapter?.loadSpots!=='function')return {status:'pending',spots:[]};try{const response=await adapter.loadSpots(normalize(config));return {status:'ready',spots:Array.isArray(response?.spots)?response.spots:[]}}catch{return {status:'error',spots:[]}}}

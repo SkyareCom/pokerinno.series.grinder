@@ -1,0 +1,1 @@
+{"name":"stackup-grinder-evo-front","private":true,"type":"module","scripts":{"test":"node --test tests/*.mjs"}}
