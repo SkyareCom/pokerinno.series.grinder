@@ -68,9 +68,9 @@ body{color:#ededed;background:radial-gradient(ellipse at 85% 0,#262626,transpare
 .pokerinno-logo{text-shadow:0 2px 9px #0009}.entry-art>div{background:linear-gradient(transparent,#080808)}dialog{background:#171717;color:#eee;border-color:#777}.eyebrow,.breadcrumb,.section-top span{color:#bcbcbc}
 @media(max-width:700px){.grinder-hero::after{background:linear-gradient(0deg,#101010 0%,#101010b0 35%,transparent 80%)}}
 
-/* Color artwork, steel blue accents and bundled Protest Strike. */
-@font-face{font-family:'Protest Strike';src:url('./assets/protest-strike.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap}
-:root{--font:'Protest Strike',sans-serif;--green:#52b9ff;--gold:#52b9ff;--muted:#acb4bc;--line:#39434b}
+/* Color artwork, steel blue accents and bundled Sour Gummy. */
+@font-face{font-family:'Sour Gummy';src:url('./assets/sour-gummy.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap}
+:root{--font:'Sour Gummy',sans-serif;--green:#52b9ff;--gold:#52b9ff;--muted:#acb4bc;--line:#39434b}
 body,button,input,select,textarea,.pokerinno-logo strong,.pokerinno-logo span{font-family:var(--font);font-weight:400;font-synthesis:none}
 h1,h2,h3,strong,b,.brand,.primary,.entry-buttons button{font-weight:400}
 .hero-image,.entry-art img{filter:none}
