@@ -70,14 +70,14 @@ body{color:#ededed;background:radial-gradient(ellipse at 85% 0,#262626,transpare
 
 /* Color artwork, steel blue accents and bundled Protest Strike. */
 @font-face{font-family:'Protest Strike';src:url('./assets/protest-strike.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap}
-:root{--font:'Protest Strike',sans-serif;--green:#8cbdde;--gold:#8cbdde;--muted:#acb4bc;--line:#39434b}
+:root{--font:'Protest Strike',sans-serif;--green:#52b9ff;--gold:#52b9ff;--muted:#acb4bc;--line:#39434b}
 body,button,input,select,textarea,.pokerinno-logo strong,.pokerinno-logo span{font-family:var(--font);font-weight:400;font-synthesis:none}
 h1,h2,h3,strong,b,.brand,.primary,.entry-buttons button{font-weight:400}
 .hero-image,.entry-art img{filter:none}
 .training-card h3,.configuration legend,.summary dd,.coach-note span,.pokerinno-logo span,.brand small,.spade,.eyebrow,.quiet{color:var(--green)}
-.training-card{border-color:#455b6b;background:linear-gradient(145deg,#202a32,#16191c)}.training-card:hover{background:#253440;border-color:var(--green)}.training-card>span,.training-card b{color:#bccedc}
-.nav-link.active{background:#23313d;border-color:#7298b4;color:#b2daf5}.mobile-nav a.active{color:#b2daf5;background:#8cbdde17;border-radius:8px}
-.primary,.action-row .primary,.level-tabs [aria-pressed=true],.entry-languages [aria-pressed=true]{background:#8cbdde;border-color:#8cbdde;color:#101820}
-.choice input:checked+span{background:#243c4e;border-color:#8cbdde;color:#d8edfc}.entry-languages button,.entry-buttons button,.entry-form input{border-color:#4f6271}
-.pokerinno-logo{color:#f1f3f5}.pokerinno-logo strong{letter-spacing:1.2px}.grinder-hero{border-color:#566b7b}.poker-table{box-shadow:0 0 0 2px #7397b2}.seat{border-color:#7397b2}.card-back{border-color:#8cbdde;color:#8cbdde}
-button:focus-visible,a:focus-visible,input:focus-visible{outline-color:#a8d7f5}.entry-form button:focus-visible,.entry-form input:focus-visible{outline-color:#a8d7f5}
+.training-card{border-color:#376e96;background:linear-gradient(145deg,#202a32,#16191c)}.training-card:hover{background:#183b55;border-color:var(--green)}.training-card>span,.training-card b{color:#bccedc}
+.nav-link.active{background:#142f46;border-color:#349fe9;color:#70c7ff}.mobile-nav a.active{color:#70c7ff;background:#52b9ff17;border-radius:8px}
+.primary,.action-row .primary,.level-tabs [aria-pressed=true],.entry-languages [aria-pressed=true]{background:#52b9ff;border-color:#52b9ff;color:#101820}
+.choice input:checked+span{background:#243c4e;border-color:#52b9ff;color:#d8edfc}.entry-languages button,.entry-buttons button,.entry-form input{border-color:#4f6271}
+.pokerinno-logo{color:#f1f3f5}.pokerinno-logo strong{letter-spacing:1.2px}.grinder-hero{border-color:#397ca9}.poker-table{box-shadow:0 0 0 2px #349fe9}.seat{border-color:#349fe9}.card-back{border-color:#52b9ff;color:#52b9ff}
+button:focus-visible,a:focus-visible,input:focus-visible{outline-color:#8bd5ff}.entry-form button:focus-visible,.entry-form input:focus-visible{outline-color:#8bd5ff}
